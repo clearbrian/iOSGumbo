@@ -22,8 +22,9 @@ To use Google Gumbo in your own project
  delete >> remove references all other files under /OCGumbo/gumbo/
   
 In an objective-C class
+```objective-c
 #import "OCGumbo+Query.h"
-
+```
 
 
 ```objective-c
