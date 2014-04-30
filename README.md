@@ -1,9 +1,8 @@
 iOSGumbo - An Objective-C HTML5 parser.
 =====================================
+OCGumbo is an Mac Objective-C wrapper of the Google [Gumbo] HTML5 parser(https://github.com/google/gumbo-parser).
 
-OCGumbo is an Objective-C wrapper of the Google [Gumbo](https://github.com/google/gumbo-parser).
-
-iOSGumbo is a parse of that.
+iOSGumbo is an iOS port of [OCGumbo](https://github.com/tracy-e/OCGumbo)..
 
 
 To use Google Gumbo in your own project
