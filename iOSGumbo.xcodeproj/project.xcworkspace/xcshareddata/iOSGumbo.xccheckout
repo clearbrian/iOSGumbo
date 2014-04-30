@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C011853F-2B17-4064-9536-D44B9B608E8D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOSGumbo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68226554-73DB-440D-B344-EAB2F2B86BF7</key>
+		<string>https://github.com/clearbrian/iOSGumbo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOSGumbo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68226554-73DB-440D-B344-EAB2F2B86BF7</key>
+		<string>../..</string>
+		<key>FE5E9F51-7369-4AA1-B725-78E6903DC8B7</key>
+		<string>../../OCGumbo/gumbo</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/clearbrian/iOSGumbo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68226554-73DB-440D-B344-EAB2F2B86BF7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE5E9F51-7369-4AA1-B725-78E6903DC8B7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gumbo</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68226554-73DB-440D-B344-EAB2F2B86BF7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSGumbo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
